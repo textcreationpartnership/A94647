@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the right honorable the Lords and Commons assembled in Parliament the humble petition of [blank] Humbly sheweth,...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94647</idno>
+            <idno type="STC">Wing T1673</idno>
+            <idno type="STC">Thomason 669.f.10[37]</idno>
+            <idno type="STC">ESTC R210408</idno>
+            <idno type="EEBO-CITATION">99869211</idno>
+            <idno type="PROQUEST">99869211</idno>
+            <idno type="VID">162577</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94647)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162577)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f10[37])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the right honorable the Lords and Commons assembled in Parliament the humble petition of [blank] Humbly sheweth,...</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from opening lines of text.</note>
+                  <note>"[P]raying for the establishment of Presbyterian Church government and discipline".--Thomason Catalogue.</note>
+                  <note>Imprint from from Wing.</note>
+                  <note>Annotation on Thomason copy: "Sent to Mr. Geo: Thomason to gett hands to it about 20 Sept".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  Great Britain --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:162577:1" rendition="simple:additions"/>
+            <head>To the right Honourable the Lords and Commons aſſembled in Parliament, the Humble Petition of</head>
+            <opener>Humbly ſheweth,</opener>
+            <p>THat we account true Religion the life and crowne of all our Liberties and Priviledges; a pure and perfect Reformation in all Chriſts Ordi<g ref="char:EOLhyphen"/>nances,
+the luſtre and beauty of Religion; and thoſe perſons or Nations much honoured of their God, whom he pleaſeth to employ in the
+promoting and accompliſhing of ſuch a Reformation. Such Honour was in part caſt upon our pious Predeceſſors in the dayes of
+King <hi>Edward</hi> the Sixth, and Queene <hi>Elizabeth</hi> (of happy Memory) when after the dark mid-night of Popery, the day of Reformation in
+Doctrine and Worſhip began ſweetly to dawn upon this Kingdom: But Divine providence hath devolved a double honour upon this Age, and therein
+principally upon you (Noble Senators) whom God hath wonderfully raiſed up, more perfectly to repaire his Houſe in all the beauties of Doctrine,
+Worſhip, Diſcipline, and Government, having mightily ſtirred up your Spirits, heartily to reſolve it, ſolemnly to Covenant it, and really to exhibit ſome
+firſt fruits of it in the Directory for publike Worſhip, which we accept with all thankfulneſſe.</p>
+            <p>Notwithſtanding we are not able longer to conceale from your Honours, how extreamely our Spirits are perplexed and amazed, that the great buſineſſe
+of Church-Government and Diſcipline, (whereupon the whol ſtreſſe of the preſent Reformation will leane, and whereby all Chriſts precious Ordinan<g ref="char:EOLhyphen"/>ces,
+and in particular the Lords Supper ſhould bee preſerved from all contempt and profanation) ſhould to this very day remaine uneſtabliſhed by your
+civill ſanction: For, we verily believe that <hi>England</hi> was never bleſt with ſuch a Parliament as you are; That Engliſh Parliament never had ſuch a learned
+pious and faithfull Synod, to hold forth ſincerely the minde of Chriſt, and the Modell of Church Government agreeable to his will, as you have: That
+no Parliament ever had ſuch, and ſo many forcible engagements upon them from God, and unto God as are upon you: And that this City of <hi>London</hi> did
+never ſo flouriſh with ſuch a conſcionable and painefull Miniſtry (ready to put the Government and Diſcipline of Chriſt into execution, for a patterne
+and encouragement to all the Kingdom) as we have at this day: whence then ſhould it be, that the children being come ſo neare to the birth, there is yet
+no ſtrength to bring forth?</p>
+            <p>Beare with us a little in this fervour of our Spirits (it is for our Religion, Reformation and the Houſe of our God, and we cannot hold our peace)
+what way ſoever we caſt our eye, we cannot but ſee moſt ſad fruits of the not ſetling of Church-Government to this day; Hence many abominable errors
+and damnable Hereſies are broached amongſt us without controule: And the precious truthes which Ieſus Chriſt ſealed with his blood are trampled under
+foot. Hence the pure and holy Ordinances of Chriſt, eſpecially that of the Lords Supper, are either wofully profaned by perſons groſly ignorant and ſcanda<g ref="char:EOLhyphen"/>lous:
+Or, uncomfortably omitted in many places, now for a long time together, which ſhould be often diſpenced: Hence, multitudes of unſtable ſoules have
+fallen off (eſpecially within theſe two or three yeares laſt paſt) into many ſtrange Sects, maintaining moſt horrid and blaſphemous opinions: Incorpora<g ref="char:EOLhyphen"/>ting
+themſelves into ſeparate Aſſemblies; ſetting up illiterate perſons to bee their Paſtors: And mannaging their meetings with great boldneſſe
+and inſolency, in contempt of all Authority, to the diſturbance of the City, every one doing what is right in his own eyes, and there is no courſe to
+reclaime them. Hence, unnaturall flames of diviſion (eſpecially about Church-Government) are occaſioned, in the ſame Kingdome, betwixt
+people and people; in the ſame Citty, betwixt Miniſter and Miniſter; in the ſame Congregation betwixt Paſtor and Flock: yea, in the ſame
+Family betwixt Maſter and Servant, betwixt Parents and Children, betwixt Husbands and Wives: differences in opinions breeding aliena<g ref="char:EOLhyphen"/>tion
+of affection, and both breaking out into many bitter, and reproachfull contentions; Hence Orthodox Miniſters are deſpiſed and diſcouraged
+in their Miniſtry: Hopefull Plants diſheartned and deterred from the Miniſtry; Publike Aſſemblies are forſaken; The pretended Preachers of new Goſpels
+cried up: Univerſall tolleration of all opinions and Religions pleaded for: The Sabbaths and monthly dayes of Humiliation (though backed by your Autho<g ref="char:EOLhyphen"/>rity)
+wilfully contemned: And a wide ſluce opened unto all profaneſſe and licenciouſneſſe. Finally, hence it comes to paſſe, that the hearts of the truly
+Godly, who have ſo long groaned after Reformation, are overwhelmed with griefe and faintings through Hope deferred: Our friends in forraign Coun<g ref="char:EOLhyphen"/>treys,
+eſpecially our deare Brethren of <hi>Scotland,</hi> are aſtoniſhed at our delayes: Our enemies at home ſcorne and inſult over us, as given up to a ſpirit of
+giddineſſe, looking at this City as a ſtage of Schiſm, Faction, and Hereſie: Our diſtempers grow more incurable, and Reformation every day more difficult
+and improbable: And though our God hath rewarded our beginings of Reformation, with his beginings of deliverance; yet hath he alſo of late mani<g ref="char:EOLhyphen"/>feſted
+divers ſad and remarkable tokens of his diſpleaſure from heaven againſt <hi>England</hi> and <hi>Scotland,</hi> both by ſword and peſtilence, becauſe (as we juſtly
+feare) we make no more haſte to compleat the Reformation in all the deſireable perfections of it, according to our Covenant, wherein (led both by your
+precept and example) we have religiouſly lifted up our hands to the moſt high God.</p>
+            <p>When we conſider theſe things, we could poure out our very ſoules in us. For God is our record (and your Honours alſo in part can beare us witneſſe)
+what we have done and ſuffered in this concerning Cauſe of God and Religion; And how we have ſpared neither our prayers, nor teares, nor outward
+eſtates, nor limbs, nor blood, nor our deareſt lives for the publike; but eſpecially for the promoting of a ſpeedy and perfect Reformation in all matters of
+Religion. Without which we value no worldly comforts: With which we hope we ſhall feare no earthly croſſes; and till this be effected, we cannot ex<g ref="char:EOLhyphen"/>pect
+that God will fully bleſſe either you or us with compleat deliverance.</p>
+            <p>Wherefore we moſt ardently and humbly importune this Renowned Parliament (our chiefe hope and help under God in this caſe)</p>
+            <p>1. That as you tender the happineſſe of this now miſerable Church: The true proſperity of this diſtracted City and Kingdom: The timely comfort
+of all your reall friends: The ſeaſonable cure of all our deep diſtempers before they grow remedileſſe: The haſtening of the Kingdoms enlarge<g ref="char:EOLhyphen"/>ment
+from all its preſſing diſtreſſes, and its enjoyment of all contrary bleſſings from the Lord: The exaltation of the name of God, whoſe glory
+is now profaned to the duſt: And your faithfull performing of Covenant with the moſt high God touching Reformation: you would make all
+poſſible haſte forthwith to eſtabliſh, by your civill Sanction, that Government and Diſcipline amongſt us, which Chriſt hath left to his Church,
+(A Modell whereof the Reverend Aſſembly of Divines, according to the wiſedom given unto them, have framed, and (as we underſtand) already
+preſented to your Honours) which being eſtabliſhed, we ſhall better be enabled with greater hope and patience to wait till the Confeſſion of Faith,
+and publike Cathechiſm can be finiſhed; which muſt neceſſarily take up a farre longer time then can poſſibly be ſpared from the ſetling of Go<g ref="char:EOLhyphen"/>vernment
+without many unavoydable and deſperate miſchiefs. And we beſeech you to remember how the Lord hath haſtened of late to load you
+and us in a ſhort ſpace with his many benefits; as the Victory at <hi>Nazeby,</hi> the quick recovery of <hi>Leiceſter,</hi> the reliefe of <hi>Taunton,</hi> the ſurrender
+of many ſtrong holds into your hands, as <hi>Bridgewater, Scarborough, Pomfret, Canon-froom, Sherburne,</hi> and <hi>Briſtoll:</hi> And what more reall ex<g ref="char:EOLhyphen"/>preſſion
+of gratitude for ſuch high favours, can you render unto the Lord, then to haſten the repaire of his Houſe, that ſo haſtens the building up
+of yours; as you were effectually preſſed at the Publike Thankſgiving after <hi>Nazeby</hi> field, which Sermon was by Order of both Houſes of Par<g ref="char:EOLhyphen"/>liament
+commanded to be printed, which gives us good hope that our ſeconding of that now which was then preached in our eares, and took
+deep impreſſion on our ſpirits, will be an acceptable ſervice unto your Honours.</p>
+            <p>2. That whenſoever Church-government ſhall be ſetled by your authoritie amongſt us, it may be eſtabliſhed with ſuch a compleat meaſure of power
+and authoritie upon the Presbyteries which ſhall be erected in England, as may fully enable them to maintaine all Chriſts ſacred Ordinances,
+eſpecially the holy Supper of the Lord, in their higheſt ſplendour and puritie, held forth in the Word, againſt all contempt, pollution, and profana<g ref="char:EOLhyphen"/>tion
+whatſoever, by groſſe ignorance or ſcandall, that ſo the Lord may be fully for you, when you ſhall be fully for him: The glorie of this may
+ſurpaſſe the glorie of all former reformations: All occaſion of ſchiſme and ſeparation, by reaſon of impuritie, or imperfection of Eccleſiaſticall ad<g ref="char:EOLhyphen"/>miniſtrations,
+may be removed: All ſtumbling blocks to tender conſciences may be ſo taken out of the way, that all the Brethren (though now of
+different opinions) may ſweetly joyne together in the worſhip of their God, with one heart and one ſoule: All our precious Miniſters may be en<g ref="char:EOLhyphen"/>couraged
+to hold on in their ſtations, without being enforced to deſert them: And all gracious ſpirits at home, together with all our godly friends
+abroad, may heartily crie Grace, Grace.</p>
+            <p>And your Petitioners beholding the Lord Chriſt triumphing thus gloriouſly in the utmoſt puritie of all his Ordinances, ſhall never repent of what
+they have already done or endured; nor repine at what they may hereafter poſſibly do, or endure in reference to this ſo glorious a work:
+But ſhall conſtantly triumph in the praiſes of our God, both for crowning our Church with ſuch ſpirituall glorie, and for lifting up your
+hearts in theſe ſacred things, to do ſo worthily.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
